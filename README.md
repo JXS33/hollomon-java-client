@@ -1,6 +1,6 @@
 # Hollomon Java Client
 
-A Java command-line client for the Hollomon trading card game. This was originally developed as a university Java networking assignment and has been tidied up for my portfolio.
+A Java command-line client for the Hollomon trading card game. This was originally developed as a university Java networking assignment and has been adapted and documented as a portfolio project.
 
 ## Features
 
@@ -38,6 +38,13 @@ java Main
 ```
 
 The original Hollomon server is a university service, so the server may not be available outside the university network/VPN.
+
+## Technologies
+
+- Java
+- Java Sockets
+- Object-Oriented Programming
+- Command-line interface
 
 ## Notes
 
